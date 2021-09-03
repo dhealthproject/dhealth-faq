@@ -4,7 +4,7 @@
 
 Minimum: 10,000 DHP
 
-Maximum: 20,000,000 DHP 
+Maximum: 20,000,000 DHP
 
 ## DHP Staking Rewards
 
