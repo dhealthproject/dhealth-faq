@@ -2,7 +2,7 @@
 
 ## Product Roadmap
 
-dHealth Network offers components and infrastructure for seamless execution of global healthcare use-cases and payment systems.
+dHealth Network offers components and infrastructure for seamless execution of global healthcare use-cases and payment systems. 
 
 ![](.gitbook/assets/image%20%281%29.png)
 
