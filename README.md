@@ -4,7 +4,7 @@
 
 dHealth Network offers components and infrastructure for seamless execution of global healthcare use-cases and payment systems.&#x20;
 
-![](<.gitbook/assets/image (1).png>)
+![dHealth Roadmap](.gitbook/assets/telegram-cloud-photo-size-4-5773731979647366643-y.jpg)
 
 ## FAQ
 
